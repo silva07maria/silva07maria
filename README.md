@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 </picture>
 </div>
 
-//bagdes do github
-https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md
+
 
  
  &nbsp;
